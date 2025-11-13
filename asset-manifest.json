@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zhihui-portfolio/static/css/main.d53fb936.css",
-    "main.js": "/zhihui-portfolio/static/js/main.9a599600.js",
+    "main.css": "/zhihui-portfolio/static/css/main.90215ddc.css",
+    "main.js": "/zhihui-portfolio/static/js/main.2f30aad4.js",
     "static/js/453.ececc0a5.chunk.js": "/zhihui-portfolio/static/js/453.ececc0a5.chunk.js",
     "index.html": "/zhihui-portfolio/index.html",
-    "main.d53fb936.css.map": "/zhihui-portfolio/static/css/main.d53fb936.css.map",
-    "main.9a599600.js.map": "/zhihui-portfolio/static/js/main.9a599600.js.map",
+    "main.90215ddc.css.map": "/zhihui-portfolio/static/css/main.90215ddc.css.map",
+    "main.2f30aad4.js.map": "/zhihui-portfolio/static/js/main.2f30aad4.js.map",
     "453.ececc0a5.chunk.js.map": "/zhihui-portfolio/static/js/453.ececc0a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d53fb936.css",
-    "static/js/main.9a599600.js"
+    "static/css/main.90215ddc.css",
+    "static/js/main.2f30aad4.js"
   ]
 }
